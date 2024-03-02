@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    margin: 10px 150px 30px 310px;
+}
+
+nav a{
+    border-bottom: 4px solid black;
+    text-decoration: none;
+    color: black;
+}
+
+main img{
+    border-left: 8px dotted black;
+    margin: 5px;
+}
+
+.txt{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+body a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+}
+
+footer p{
+    background-color: white;
+    margin: 10px;
+}
